@@ -17,7 +17,7 @@ public class Constant {
 	public String ip = "localhost";
 	
 	@Value("${port}")
-	public String port = "8080"; 
+	public String port = "5000"; 
 	
 	
 	public String getImageListUrl() {
