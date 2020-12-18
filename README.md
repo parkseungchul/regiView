@@ -3,8 +3,7 @@
 ### 도커 레지스트리에 등록 된 이미지와 태그를 볼 수 있는 웹 어플리케이션
 
 #### Installation
-<pre><code>git init
-git clone https://github.com/parkseungchul/regiView
+<pre><code>git clone https://github.com/parkseungchul/regiView
 cd regiView
 docker-compose up</code></pre>
 
